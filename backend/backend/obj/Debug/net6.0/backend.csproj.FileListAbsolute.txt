@@ -1,0 +1,92 @@
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\appsettings.Development.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\appsettings.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\backend.exe
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\backend.deps.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\backend.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\backend.pdb
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.backend.props
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend.props
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets.build.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\staticwebassets.development.json
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\refint\backend.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.pdb
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\obj\Debug\net6.0\ref\backend.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\AWSSDK.Core.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\DnsClient.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\MongoDB.Bson.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\MongoDB.Driver.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\SharpCompress.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\Snappier.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\ZstdSharp.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+F:\Kale\Desktop\4th\C#\EAD_React_android_c\backend\backend\bin\Debug\net6.0\MongoDB.Driver.Legacy.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\appsettings.Development.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\appsettings.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\backend.exe
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\backend.deps.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\backend.runtimeconfig.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\backend.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\backend.pdb
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\DnsClient.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\MongoDB.Driver.Legacy.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\SharpCompress.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\Snappier.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\ZstdSharp.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.csproj.AssemblyReference.cache
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.AssemblyInfoInputs.cache
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.AssemblyInfo.cs
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.csproj.CoreCompileInputs.cache
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.backend.props
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\scopedcss\bundle\backend.styles.css
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.csproj.CopyComplete
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\refint\backend.dll
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.pdb
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\backend.genruntimeconfig.cache
+D:\CAMPUS\Year 4 semester 1\EAD\Project\New folder\EAD_React_android_c-main\backend\backend\obj\Debug\net6.0\ref\backend.dll
